@@ -1,0 +1,14 @@
+E:\Dotnet-Prajita\Assignment1\greeter\bin\Debug\net8.0\greeter.exe
+E:\Dotnet-Prajita\Assignment1\greeter\bin\Debug\net8.0\greeter.deps.json
+E:\Dotnet-Prajita\Assignment1\greeter\bin\Debug\net8.0\greeter.runtimeconfig.json
+E:\Dotnet-Prajita\Assignment1\greeter\bin\Debug\net8.0\greeter.dll
+E:\Dotnet-Prajita\Assignment1\greeter\bin\Debug\net8.0\greeter.pdb
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.AssemblyInfoInputs.cache
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.AssemblyInfo.cs
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.csproj.CoreCompileInputs.cache
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.dll
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\refint\greeter.dll
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.pdb
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\greeter.genruntimeconfig.cache
+E:\Dotnet-Prajita\Assignment1\greeter\obj\Debug\net8.0\ref\greeter.dll
