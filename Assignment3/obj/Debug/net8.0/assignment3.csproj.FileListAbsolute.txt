@@ -1,0 +1,15 @@
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.AssemblyInfoInputs.cache
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.AssemblyInfo.cs
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.csproj.CoreCompileInputs.cache
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.sourcelink.json
+E:\Dotnet-Prajita\Assignment3\bin\Debug\net8.0\assignment3.exe
+E:\Dotnet-Prajita\Assignment3\bin\Debug\net8.0\assignment3.deps.json
+E:\Dotnet-Prajita\Assignment3\bin\Debug\net8.0\assignment3.runtimeconfig.json
+E:\Dotnet-Prajita\Assignment3\bin\Debug\net8.0\assignment3.dll
+E:\Dotnet-Prajita\Assignment3\bin\Debug\net8.0\assignment3.pdb
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.dll
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\refint\assignment3.dll
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.pdb
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\assignment3.genruntimeconfig.cache
+E:\Dotnet-Prajita\Assignment3\obj\Debug\net8.0\ref\assignment3.dll
